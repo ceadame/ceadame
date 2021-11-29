@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ceadame
+- 👀 I’m interested in learning new programming languages and acrchitectures, specially for mobile.
+- 🌱 I’m currently learning Flutter/Dart.
+- 💞️ I’m looking to collaborate on coding/development.
+- 📫 How to reach me carlosadame@hotmail.com / cell +55 19 98174-0109
